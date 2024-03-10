@@ -1,4 +1,4 @@
-https://pixy.org/src2/575/thumbs350/5759310.jpg
+https://drive.google.com/file/d/1cEXlg-unoSUwBZdqH3fSN9AvdGshSnYU/view?usp=sharing
 <h1 align="center">Hi 👋, I'm Paul Mulwa</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
