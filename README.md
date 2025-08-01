@@ -1,5 +1,5 @@
 
-![My image](./p.jpg)
+![My image](./567.png)
 <h1 align="center">Hi 👋, I'm Paul Munyaka </h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
