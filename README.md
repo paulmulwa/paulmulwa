@@ -1,14 +1,21 @@
-https://drive.google.com/file/d/1cEXlg-unoSUwBZdqH3fSN9AvdGshSnYU/view?usp=sharing
+![My image](./p.jpg)
 <h1 align="center">Hi 👋, I'm Paul Mulwa</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulmulwa&label=Profile%20views&color=0e75b6&style=flat" alt="paulmulwa" /> </p>
 
-- 🔭 I’m currently working on **Laravel,Flutter**
+-### 👋 Hi there, I'm Paul Mulwa
 
-- 👯 I’m looking to collaborate on **Laravel,Flutter**
-
-- 💬 Ask me about **Vue,PHP,Laravel,Python**
+- 🔭 I’m currently working with **C#** and **Next.js**
+- 👯 I’m open to collaborations on **Laravel** and **Flutter** projects
+- 💡 I can code in:
+  - **Frontend**: HTML, CSS, JavaScript, Next.js
+  - **Backend**: PHP, Laravel, Python, C#, Java (Spring Boot)
+  - **Mobile**: Flutter (Dart)
+  - **Database**: MySQL, SQLite
+- 💬 Ask me about **PHP, Laravel, Python, C#, Java (Spring Boot), Next.js**
+- 📫 Reach me at **paulmulwa101@gmail.com**
+<img width="348" height="174" alt="l2" src="https://github.com/user-attachments/assets/260dfc62-ea4b-4a4d-861d-2482d6cdd2c7" />
 
 - 📫 How to reach me **paulmulwa101@gmail.com**
 
