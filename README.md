@@ -1,5 +1,5 @@
 
-![My image](https://raw.githubusercontent.com/paulmulwa/paulmulwa/main/p.jpg)
+![My image](https://raw.githubusercontent.com/paulmulwa/paulmulwa/main/./p.jpg)
 <h1 align="center">Hi 👋, I'm Paul Munyaka </h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
@@ -31,4 +31,3 @@ cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulmulwa&show_icons=true&locale=en" alt="paulmulwa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulmulwa&" alt="paulmulwa" /></p>
