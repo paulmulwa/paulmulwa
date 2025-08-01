@@ -1,4 +1,5 @@
-![My image](./p.jpg)
+![My image](/p.jpg)
+<img width="348" height="174" alt="l2" src="https://github.com/user-attachments/assets/p.jpg
 <h1 align="center">Hi 👋, I'm Paul Mulwa</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
@@ -15,10 +16,6 @@
   - **Database**: MySQL, SQLite
 - 💬 Ask me about **PHP, Laravel, Python, C#, Java (Spring Boot), Next.js**
 - 📫 Reach me at **paulmulwa101@gmail.com**
-<img width="348" height="174" alt="l2" src="https://github.com/user-attachments/assets/260dfc62-ea4b-4a4d-861d-2482d6cdd2c7" />
-
-- 📫 How to reach me **paulmulwa101@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/paulmulwa" target="blank"><img align="center"img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></a>
