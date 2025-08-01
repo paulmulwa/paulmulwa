@@ -1,5 +1,5 @@
 
-<img width="348" height="174" alt="l2" src="https://github.com/user-attachments/assets/p.jpg
+![My image](https://raw.githubusercontent.com/paulmulwa/paulmulwa/main/p.jpg)
 <h1 align="center">Hi 👋, I'm Paul Mulwa</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
