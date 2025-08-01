@@ -1,11 +1,11 @@
-![My image](/p.jpg)
+
 <img width="348" height="174" alt="l2" src="https://github.com/user-attachments/assets/p.jpg
 <h1 align="center">Hi 👋, I'm Paul Mulwa</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulmulwa&label=Profile%20views&color=0e75b6&style=flat" alt="paulmulwa" /> </p>
 
--### 👋 Hi there, I'm Paul Mulwa
+ 👋 Hi there, I'm Paul Mulwa
 
 - 🔭 I’m currently working with **C#** and **Next.js**
 - 👯 I’m open to collaborations on **Laravel** and **Flutter** projects
@@ -18,7 +18,8 @@
 - 📫 Reach me at **paulmulwa101@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/paulmulwa" target="blank"><img align="center"img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></a>
+<a href="https://fb.com/paulmulwa" target="blank"><img align="center"img align="right" alt="Coding" width="400"  src="https://![p](https://github.com/user-attachments/assets/f979a54e-afc1-4eaf-bc62-455394e7bab3)
+cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></a>
 <a href="https://instagram.com/paulmulwa101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paulmulwa101" height="30" width="40" /></a>
 </p>
 
