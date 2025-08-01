@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulmulwa&label=Profile%20views&color=0e75b6&style=flat" alt="paulmulwa" /> </p>
 
- 👋 Hi there, I'm Paul Mulwa
+ 👋 Hi there, I'm Paul Munyaka
 
 - 🔭 I’m currently working with **C#** and **Next.js**
 - 👯 I’m open to collaborations on **Laravel** and **Flutter** projects
